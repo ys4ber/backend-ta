@@ -1,0 +1,42 @@
+{
+  "random_forest": {
+    "accuracy": 94.3,
+    "precision": 88.4375,
+    "recall": 93.3993399339934,
+    "f1_score": 90.85072231139647
+  },
+  "svm_classifier": {
+    "accuracy": 90.4,
+    "precision": 83.93442622950819,
+    "recall": 84.48844884488449,
+    "f1_score": 84.21052631578947
+  },
+  "neural_network": {
+    "accuracy": 90.5,
+    "precision": 85.37414965986395,
+    "recall": 82.83828382838284,
+    "f1_score": 84.08710217755443
+  },
+  "isolation_forest": {
+    "accuracy": 56.699999999999996,
+    "precision": 26.95035460992908,
+    "recall": 25.082508250825082,
+    "f1_score": 25.982905982905987
+  },
+  "one_class_svm": {
+    "accuracy": 65.4,
+    "precision": 43.657817109144545,
+    "recall": 48.84488448844885,
+    "f1_score": 46.10591900311526
+  },
+  "local_outlier_factor": {
+    "accuracy": 70.7,
+    "precision": 51.231527093596064,
+    "recall": 68.64686468646865,
+    "f1_score": 58.67418899858956
+  },
+  "autoencoder": {
+    "accuracy": 82.1,
+    "threshold": 0.045080335680991526
+  }
+}

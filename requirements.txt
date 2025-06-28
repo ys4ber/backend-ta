@@ -1,0 +1,79 @@
+# Core FastAPI and Web Framework
+fastapi==0.115.14
+uvicorn[standard]==0.34.3
+python-multipart==0.0.20
+websockets==12.0
+
+# Data Processing
+pandas==2.3.0
+numpy==2.3.1
+openpyxl==3.1.5
+
+# Machine Learning - Core
+scikit-learn==1.7.0
+joblib==1.5.1
+
+# Advanced Machine Learning
+xgboost==2.1.2
+lightgbm==4.5.0
+catboost==1.2.7
+
+# Deep Learning
+tensorflow==2.18.0
+keras==3.8.0
+torch==2.5.1
+torchvision==0.20.1
+
+# Time Series Analysis
+statsmodels==0.14.1
+prophet==1.1.5
+pmdarima==2.0.4
+
+# Advanced Feature Engineering
+feature-engine==1.8.0
+category_encoders==2.6.3
+tsfresh==0.20.2
+
+# Model Interpretation
+shap==0.45.1
+lime==0.2.0.1
+eli5==0.13.0
+
+# Anomaly Detection Specialized
+pyod==2.0.2
+isolation-forest==0.1.0
+adtk==0.7.0
+
+# Optimization and AutoML
+optuna==4.1.0
+hyperopt==0.2.7
+auto-sklearn==0.15.0
+
+# Advanced Data Processing
+imbalanced-learn==0.12.4
+featuretools==1.31.0
+
+# Validation and Type Hints
+pydantic==2.11.7
+typing-extensions==4.14.0
+
+# HTTP Requests (for webhooks)
+httpx==0.27.0
+requests==2.31.0
+
+# Async Support
+asyncio-mqtt==0.16.1
+
+# Development and Testing
+pytest==8.2.0
+pytest-asyncio==0.23.6
+
+# Optional: For production deployment
+gunicorn==22.0.0
+
+# Optional: For advanced logging
+python-json-logger==2.0.7
+
+# Database - SQLite
+sqlalchemy==2.0.41
+alembic==1.16.2

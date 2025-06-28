@@ -1,0 +1,1 @@
+["temperature", "pressure", "vibration", "efficiency", "load_factor", "hour", "day_of_week", "month", "season", "ambient_temperature", "humidity", "equipment_age", "temp_pressure_ratio", "vibration_efficiency_ratio", "power_factor", "thermal_stress", "mechanical_stress", "equipment_type_encoded"]
